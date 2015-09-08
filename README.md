@@ -1,5 +1,4 @@
 
-      <h3>
 <a id="简介" class="anchor" href="#%E7%AE%80%E4%BB%8B" aria-hidden="true"><span class="octicon octicon-link"></span></a><strong>简介</strong>
 </h3>
 
